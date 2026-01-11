@@ -3,3 +3,6 @@ uvicorn
 smolagents
 huggingface_hub
 pydantic
+duckduckgo-search
+requests
+python-dotenv
